@@ -1,4 +1,10 @@
 # hola-mundo-python-v2
+# Práctica de Introducción a GitHub
+Esta tarea consiste en dar los primeros pasos utilizando **GitHub**, aprendiendo a:
+* Crear un repositorio público/privado.
+* Editar archivos con sintaxis **Markdown**.
+* Añadir scripts básicos en **Python**.
+
 APARTADO 1
 Accedemos a la página web de GitHub, registrarte y crear una cuenta.
 Crea repositorio, incluyendo un archivo Readme con lenguaje de marcación, una breve explicación de la tarea, 
